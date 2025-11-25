@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# changes permission of dir
+#!/bin/bash
 chmod +x */

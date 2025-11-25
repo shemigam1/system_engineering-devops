@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# changes permission of file
+#!/bin/bash
 chmod 007 hello
