@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# changes permission of dir to group
+chgrp school hello

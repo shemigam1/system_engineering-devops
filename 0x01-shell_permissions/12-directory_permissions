@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# changes permission of dir
+mkdir my_dir
+chmod 751 my_dir
