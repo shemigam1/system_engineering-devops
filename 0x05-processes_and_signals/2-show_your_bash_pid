@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Display only the lines containing the word bash
+ps aux | grep bash
